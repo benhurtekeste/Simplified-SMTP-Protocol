@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Receiver.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  client.cpp
+  The contents of <format> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Natnael Abule\source\repos\client_proj\client_proj\client.cpp(276,21): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Natnael Abule\source\repos\client_proj\client_proj\client.cpp(392,21): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Natnael Abule\source\repos\client_proj\client_proj\client.cpp(360,16): warning C4101: 'stat_buf': unreferenced local variable
+C:\Users\Natnael Abule\source\repos\client_proj\client_proj\client.cpp(583,18): warning C4244: 'initializing': conversion from 'std::streamsize' to 'int', possible loss of data
+  client_proj.vcxproj -> C:\Users\Natnael Abule\source\repos\client_proj\x64\Debug\client_proj.exe

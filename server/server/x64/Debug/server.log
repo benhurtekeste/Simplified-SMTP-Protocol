@@ -1,0 +1,8 @@
+﻿  server.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\yonik\source\repos\server\server\server.cpp(48,26): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\yonik\source\repos\server\server\server.cpp(87,27): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\yonik\source\repos\server\server\server.cpp(171,18): warning C4244: 'initializing': conversion from 'std::streamsize' to 'int', possible loss of data
+C:\Users\yonik\source\repos\server\server\server.cpp(309,6): warning C4101: 'result': unreferenced local variable
+C:\Users\yonik\source\repos\server\server\server.cpp(308,15): warning C4101: 'stat_buf': unreferenced local variable
+  server.vcxproj -> C:\Users\yonik\source\repos\server\x64\Debug\server.exe

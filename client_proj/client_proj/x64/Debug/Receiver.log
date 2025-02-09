@@ -1,0 +1,6 @@
+﻿  Receiver.cpp
+C:\Users\Natnael Abule\source\repos\Receiver\Receiver\Receiver.cpp(23,1): warning C4005: 'ZeroMemory': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\minwinbase.h(39): message : see previous definition of 'ZeroMemory'
+C:\Users\Natnael Abule\source\repos\Receiver\Receiver\Receiver.cpp(180,20): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\Natnael Abule\source\repos\Receiver\Receiver\Receiver.cpp(223): warning C4717: 'TcpClient::run': recursive on all control paths, function will cause runtime stack overflow
+  Receiver.vcxproj -> C:\Users\Natnael Abule\source\repos\Receiver\x64\Debug\Receiver.exe
